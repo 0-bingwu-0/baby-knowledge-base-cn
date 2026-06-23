@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local-only StashBase runtime state is ignored by .stashbase/.gitignore.
+# Keep StashBase extraction companions and snapshots committed so imported
+# spaces can reuse extracted text/assets instead of reprocessing PDFs.

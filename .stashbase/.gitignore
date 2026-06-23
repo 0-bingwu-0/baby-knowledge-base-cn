@@ -1,0 +1,7 @@
+config.json
+store.nosync/
+store/
+mfs/
+cache/
+state.db
+state.db-*

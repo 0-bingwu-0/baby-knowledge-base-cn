@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "space": "baby-knowledge-base-cn",
+  "embedder": {
+    "provider": "openai",
+    "model": "text-embedding-3-small",
+    "dim": 1536
+  },
+  "vectors": 1661,
+  "chunks": 2703,
+  "exported_at": "2026-06-23T02:10:17.233Z"
+}
